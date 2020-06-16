@@ -1,4 +1,4 @@
-# MyStduy
+# MyStudy
 
 My Study of DL and SLAM.
 
