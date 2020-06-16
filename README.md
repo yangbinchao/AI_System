@@ -10,6 +10,8 @@ My Study of DL and SLAM.
 
 [2019研究论文]https://github.com/YiChenCityU/Recent_SLAM_Research/blob/master/SLAM_Research_2019.md
 
+[2020研究论文]https://github.com/YiChenCityU/Recent_SLAM_Research/blob/master/SLAM_Research_2018.md
+
 [SLAM公开数据集下载链接]https://www.sohu.com/a/219232053_715754
 
 ## 开源DEEPSLAM
