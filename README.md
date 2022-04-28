@@ -1,6 +1,7 @@
-# MyStudy
+# my brief summary
 
-My Study of DL and SLAM.
+## blog
+[my csdn blog](https://blog.csdn.net/heroybc?type=blog)
 
 ## LSTM
 [LSTM的公式推导详解]https://blog.csdn.net/u010754290/article/details/47167979
@@ -21,12 +22,10 @@ My Study of DL and SLAM.
 
 [UnDeepVO]https://github.com/drmaj/UnDeepVO
 
-## Linux
-
-[]
 
 ## ROS
 [deepin15.11安装ROSMelodic]https://blog.csdn.net/lewif/article/details/101151749
 
 ## V2ray
 [Linux配置v2详细教程]https://mahongfei.com/1776.html
+
