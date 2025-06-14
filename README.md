@@ -7,7 +7,24 @@
 - 早期文章可读性较弱，但也作保留，同时，全部内容均已脱敏，不涉及本人曾经、当前公司的敏感信息
 
 ## 分类
-- Linux
+- Linux OpenCV C/C++
 
 ### Linux&嵌入式
+- [基于arm的ubuntu系统该源为国内源/404的解决（rk3399/friendlydesktop/中科大）](https://blog.csdn.net/heroybc/article/details/100588547)
+- [在ubuntu下make luvcview时出现fatalerror；SDL.h:No such file or directory的问题解决](https://blog.csdn.net/heroybc/article/details/100186083)
+- [通讯模块SIM调试常见问题和解决-信号连接/指令发送](https://blog.csdn.net/heroybc/article/details/90108113)
+- [安装MDK时遇到SVDConv exied with an error.No uVision SystemViewer file created](https://blog.csdn.net/heroybc/article/details/89298784)
+- [Linux开发常见问题及解决方法-服务器连接相关问题](https://blog.csdn.net/heroybc/article/details/78562954)
 - [Linux在nanopi m3的安装配置](https://blog.csdn.net/heroybc/article/details/78562379)
+- [带你实现课程设计-51单片机最小系统以及蜂鸣器驱动电路](https://blog.csdn.net/heroybc/article/details/89216390)
+- [带你实现课程设计-电子温湿度计/51单片机+1602+dht11显示温湿度](https://blog.csdn.net/heroybc/article/details/89377146)
+- [Linux系统下OpenCV开发教程](https://blog.csdn.net/heroybc/article/details/78563534)
+
+### C/C++
+- [C语言核心概念总结](https://blog.csdn.net/heroybc/article/details/85626399)
+- [带你实现课程设计-简单程序小游戏推箱子](https://blog.csdn.net/heroybc/article/details/86511390)
+
+### Other
+- [LabviewNI服务定位器未运行的解决办法](https://blog.csdn.net/heroybc/article/details/89286194)
+- [看看校招技术面技术你需要做什么-控制工程专业典型校招岗位要求汇总](https://blog.csdn.net/heroybc/article/details/95636768)
+###
