@@ -7,8 +7,8 @@
 - 早期文章可读性较弱，但也作保留，同时，全部内容均已脱敏，不涉及本人曾经、当前公司的敏感信息
 
 ## 分类
-- Linux 嵌入式 OpenCV C/C++ MachineLearning机器学习 SLAM
-### MachineLearning机器学习
+- Linux 嵌入式 OpenCV C/C++ MachineLearning机器学习 SLAM Python
+### 机器学习
 - [基于Scikit-Learn的典型例子-鸢尾花分类](https://editor.csdn.net/md/?articleId=102632784)
 - [监督学习算法-二分类\多分类\回归\K邻近\威斯康辛乳腺癌\波士顿房价](https://editor.csdn.net/md/?articleId=102711180)
 - [监督学习算法-决策树\决策树集成\核支持向量机](https://editor.csdn.net/md/?articleId=102865927)
@@ -17,7 +17,22 @@
 - [无监督学习与预处理-预处理与缩放\主成分分析](https://editor.csdn.net/md/?articleId=103169318)
 - [非矩阵分解与流行学习](https://editor.csdn.net/md/?articleId=103326846)
 - [聚类算法的对比与评估-K均值\凝聚\密度空间聚类](https://editor.csdn.net/md/?articleId=103639759)
+- [要求每个batch为相同的size](https://editor.csdn.net/md/?articleId=116233679)
+- [无监督图像分类技术](https://editor.csdn.net/md/?articleId=117228554)
+- [特征匹配+Homography找目标](https://editor.csdn.net/md/?articleId=118423919)
+- [多卡训练/混合精度/分布式训练之踩坑指北](https://editor.csdn.net/md/?articleId=122042975)
 ### SLAM
+- [视觉里程计的入门实践](https://editor.csdn.net/md/?articleId=106357205)
+- [对极几何学习与实践](https://editor.csdn.net/md/?articleId=106357146)
+- [三角测量与PNP](https://editor.csdn.net/md/?articleId=106356148)
+- [G2OBA优化及ICP的学习实践](https://editor.csdn.net/md/?articleId=106356092)
+- [特征匹配的光流实践](https://editor.csdn.net/md/?articleId=106356072)
+- [直接法应用](https://editor.csdn.net/md/?articleId=106356041)
+- [状态估计系统和卡尔曼滤波](https://editor.csdn.net/md/?articleId=106356034)
+- [BA和图优化的入门与实践](https://editor.csdn.net/md/?articleId=106356000)
+- [滑动窗口法及其优化求解实践](https://editor.csdn.net/md/?articleId=106355973)
+- [位姿图优化的入门与实践](https://editor.csdn.net/md/?articleId=106355948)
+- [创建字典进行回环检测教程](https://editor.csdn.net/md/?articleId=106355895)
 - [使用单目相机进行地图构建](https://editor.csdn.net/md/?articleId=106355881)
 - [稠密建图的讨论与八叉树三维地图的构建](https://editor.csdn.net/md/?articleId=106355843)
 - [视觉SLAM系统设计与未来研究探讨](https://editor.csdn.net/md/?articleId=106355800)
@@ -39,9 +54,8 @@
 - [Tensorflow2.0在windows安装简明教程（防坑）](https://editor.csdn.net/md/?articleId=102413424)
 - [嵌入式开发常见问题及解决方法-找不到libgfortran.so.4/换国内源](https://editor.csdn.net/md/?articleId=102655764)
 - [Deepin下的ROS安装与配置](https://editor.csdn.net/md/?articleId=104725467)
-- []()
-- []()
-- []()
+- [ROS机器人操作系统的安装使用和问题解决](https://editor.csdn.net/md/?articleId=106357251)
+- [ubuntu18.04安装ROS避坑指南](https://editor.csdn.net/md/?articleId=106882084)
 - []()
 - []()
 - []()
@@ -55,12 +69,18 @@
 - []()
 - []()
 
-### C/C++
+### C/C++/Python
 - [C语言核心概念总结](https://blog.csdn.net/heroybc/article/details/85626399)
 - [常见排序算法与八皇后问题](https://editor.csdn.net/md/?articleId=103277969)
+- [数据类型大小以及常见的ASCII码值](https://editor.csdn.net/md/?articleId=120989484)
 - [带你实现课程设计-简单程序小游戏推箱子](https://blog.csdn.net/heroybc/article/details/86511390)
+- [AI系统开发常用的Python脚本合集](https://editor.csdn.net/md/?articleId=117924952)
+- [绘制常见激活函数代码\显示试验可视化对比进行拼接](https://editor.csdn.net/md/?articleId=121374393)
 
 ### Other
 - [LabviewNI服务定位器未运行的解决办法](https://blog.csdn.net/heroybc/article/details/89286194)
 - [看看校招技术面技术你需要做什么-控制工程专业典型校招岗位要求汇总](https://blog.csdn.net/heroybc/article/details/95636768)
+- [编程之美系列1](https://editor.csdn.net/md/?articleId=107530868)
+- [文献管理软件抓去中文文献引用](https://editor.csdn.net/md/?articleId=120777803)
+- [光流常见数据集下载教程](https://editor.csdn.net/md/?articleId=121793608)
 ###
