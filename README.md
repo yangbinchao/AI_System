@@ -8,7 +8,7 @@
 - 部分文章可能由于正在完善或其他原因暂时无法打开，follow me
 
 ## Keyword
-- Linux 嵌入式 OpenCV C/C++ MachineLearning机器学习 SLAM Python CUDA Nvidia Jetson
+- Linux 嵌入式 OpenCV C/C++ Machine Learning 深度学习 机器学习 SLAM Python CUDA Nvidia Jetson 高性能计算 
 
 ### AI系统
 - [一文讲完C++\操作系统核心基础](https://editor.csdn.net/md/?articleId=143722397)
