@@ -1,24 +1,13 @@
-## Brief Summary 我的简要总结
+# AI System
 
+## 写在前面
+- 以下文章是我的在工作之余的总结，涉及AI算法到芯片等跨度宽泛的领域，我把这一系列的文章暂时称为AI System
+- 我期望文章的风格尽可能简明扼要，这样从文字中可以一眼看到重点，但是会缺少些趣味
+- 为了尽可能增加文章的连续可读性，我会穿插一些提问和解答，期望带来更多的思考
+- 早期文章可读性较弱，但也作保留，同时，全部内容均已脱敏，不涉及本人曾经、当前公司的敏感信息
 
-### Deep learning 深度学习
-[LSTM的公式推导详解](https://blog.csdn.net/u010754290/article/details/47167979)
+## 分类
+- Linux
 
-### SLAM 同步定位与建图
-[2020研究论文]https://github.com/YiChenCityU/Recent_SLAM_Research
-
-[2019研究论文]https://github.com/YiChenCityU/Recent_SLAM_Research/blob/master/SLAM_Research_2019.md
-
-[2018研究论文]https://github.com/YiChenCityU/Recent_SLAM_Research/blob/master/SLAM_Research_2018.md
-
-[SLAM公开数据集下载链接]https://www.sohu.com/a/219232053_715754
-
-
-
-### ROS 机器人操作系统
-[deepin15.11安装ROSMelodic]https://blog.csdn.net/lewif/article/details/101151749
-
-### Other 其他
-V2ray
-[Linux配置v2详细教程]https://mahongfei.com/1776.html
-
+### Linux&嵌入式
+- [Linux在nanopi m3的安装配置](https://blog.csdn.net/heroybc/article/details/78562379)
